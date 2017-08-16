@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "772361535432",
-    "firebase_url": "https://admglass-1bb89.firebaseio.com",
-    "project_id": "admglass-1bb89",
-    "storage_bucket": "admglass-1bb89.appspot.com"
+    "project_number": "100306800359",
+    "firebase_url": "https://adm-app-6ef8e.firebaseio.com",
+    "project_id": "adm-app-6ef8e",
+    "storage_bucket": "adm-app-6ef8e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:772361535432:android:061d457fcc08f5fc",
+        "mobilesdk_app_id": "1:100306800359:android:d9354e21fa4d279f",
         "android_client_info": {
-          "package_name": "com.admglas.app"
+          "package_name": "com.admglass.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "772361535432-i7vm0kh22csrfpgnd44udn4ja4ra4gv2.apps.googleusercontent.com",
+          "client_id": "100306800359-s6hf0g0bg3poavdg3lu0b7t4tlbvhqmr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDogeitIq5U5Nph7D0zF-LragIgx29A1Q4"
+          "current_key": "AIzaSyB3ZyJR8IOPYeigab_3-c-3aLcO3prDwAw"
         }
       ],
       "services": {
